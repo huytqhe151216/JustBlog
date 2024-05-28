@@ -1,0 +1,15 @@
+﻿
+@using FA.JustBlock.Core.Models
+@model List<Post>
+
+<h2>@ViewBag.PartialViewTitle</h2>
+<ul style="list-style-type: none;">
+@foreach (var post in Model)
+{
+    <li>
+        @Html.PostLink(post)
+        Posted @post.PostedOn.ToTime() with rate @post.TotalRate by @post.ViewCount view(s)
+        <p>@post.PostContent</p>
+    </li>
+}
+</ul>

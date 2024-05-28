@@ -1,0 +1,6 @@
+﻿@using FA.JustBlock.Core.Models
+@model Post
+<h3>Post detail </h3>
+<p>@Model.Title</p>
+ Posted @Model.PostedOn.ToTime() with rate @Model.TotalRate by @Model.ViewCount view(s)
+<p>@Model.PostContent</p>

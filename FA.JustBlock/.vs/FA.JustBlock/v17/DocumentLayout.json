@@ -1,0 +1,403 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FSA\\EF\\FA.JustBlock\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBBBF43F-BA90-4BF2-A7F4-42BB19C4D40B}|FA.JustBlog\\FA.JustBlog.csproj|D:\\FSA\\EF\\FA.JustBlock\\fa.justblog\\areas\\admin\\views\\posts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBBBF43F-BA90-4BF2-A7F4-42BB19C4D40B}|FA.JustBlog\\FA.JustBlog.csproj|solutionrelative:fa.justblog\\areas\\admin\\views\\posts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBBBF43F-BA90-4BF2-A7F4-42BB19C4D40B}|FA.JustBlog\\FA.JustBlog.csproj|D:\\FSA\\EF\\FA.JustBlock\\fa.justblog\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBBBF43F-BA90-4BF2-A7F4-42BB19C4D40B}|FA.JustBlog\\FA.JustBlog.csproj|solutionrelative:fa.justblog\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBBBF43F-BA90-4BF2-A7F4-42BB19C4D40B}|FA.JustBlog\\FA.JustBlog.csproj|d:\\fsa\\ef\\fa.justblock\\fa.justblog\\areas\\admin\\views\\posts\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBBBF43F-BA90-4BF2-A7F4-42BB19C4D40B}|FA.JustBlog\\FA.JustBlog.csproj|solutionrelative:fa.justblog\\areas\\admin\\views\\posts\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBBBF43F-BA90-4BF2-A7F4-42BB19C4D40B}|FA.JustBlog\\FA.JustBlog.csproj|d:\\fsa\\ef\\fa.justblock\\fa.justblog\\areas\\admin\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBBBF43F-BA90-4BF2-A7F4-42BB19C4D40B}|FA.JustBlog\\FA.JustBlog.csproj|solutionrelative:fa.justblog\\areas\\admin\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC7C68D-2AD9-4E5B-B7A9-07A55B1B96FA}|FA.JustBlock.Core\\FA.JustBlock.Core.csproj|D:\\FSA\\EF\\FA.JustBlock\\fa.justblock.core\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC7C68D-2AD9-4E5B-B7A9-07A55B1B96FA}|FA.JustBlock.Core\\FA.JustBlock.Core.csproj|solutionrelative:fa.justblock.core\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBBBF43F-BA90-4BF2-A7F4-42BB19C4D40B}|FA.JustBlog\\FA.JustBlog.csproj|D:\\FSA\\EF\\FA.JustBlock\\fa.justblog\\areas\\admin\\views\\posts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBBBF43F-BA90-4BF2-A7F4-42BB19C4D40B}|FA.JustBlog\\FA.JustBlog.csproj|solutionrelative:fa.justblog\\areas\\admin\\views\\posts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBBBF43F-BA90-4BF2-A7F4-42BB19C4D40B}|FA.JustBlog\\FA.JustBlog.csproj|D:\\FSA\\EF\\FA.JustBlock\\fa.justblog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBBBF43F-BA90-4BF2-A7F4-42BB19C4D40B}|FA.JustBlog\\FA.JustBlog.csproj|solutionrelative:fa.justblog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBBBF43F-BA90-4BF2-A7F4-42BB19C4D40B}|FA.JustBlog\\FA.JustBlog.csproj|D:\\FSA\\EF\\FA.JustBlock\\fa.justblog\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BBBBF43F-BA90-4BF2-A7F4-42BB19C4D40B}|FA.JustBlog\\FA.JustBlog.csproj|solutionrelative:fa.justblog\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBBBF43F-BA90-4BF2-A7F4-42BB19C4D40B}|FA.JustBlog\\FA.JustBlog.csproj|D:\\FSA\\EF\\FA.JustBlock\\fa.justblog\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBBBF43F-BA90-4BF2-A7F4-42BB19C4D40B}|FA.JustBlog\\FA.JustBlog.csproj|solutionrelative:fa.justblog\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBBBF43F-BA90-4BF2-A7F4-42BB19C4D40B}|FA.JustBlog\\FA.JustBlog.csproj|D:\\FSA\\EF\\FA.JustBlock\\fa.justblog\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBBBF43F-BA90-4BF2-A7F4-42BB19C4D40B}|FA.JustBlog\\FA.JustBlog.csproj|solutionrelative:fa.justblog\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBBBF43F-BA90-4BF2-A7F4-42BB19C4D40B}|FA.JustBlog\\FA.JustBlog.csproj|D:\\FSA\\EF\\FA.JustBlock\\fa.justblog\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBBBF43F-BA90-4BF2-A7F4-42BB19C4D40B}|FA.JustBlog\\FA.JustBlog.csproj|solutionrelative:fa.justblog\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBBBF43F-BA90-4BF2-A7F4-42BB19C4D40B}|FA.JustBlog\\FA.JustBlog.csproj|D:\\FSA\\EF\\FA.JustBlock\\fa.justblog\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBBBF43F-BA90-4BF2-A7F4-42BB19C4D40B}|FA.JustBlog\\FA.JustBlog.csproj|solutionrelative:fa.justblog\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBBBF43F-BA90-4BF2-A7F4-42BB19C4D40B}|FA.JustBlog\\FA.JustBlog.csproj|D:\\FSA\\EF\\FA.JustBlock\\fa.justblog\\views\\post\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBBBF43F-BA90-4BF2-A7F4-42BB19C4D40B}|FA.JustBlog\\FA.JustBlog.csproj|solutionrelative:fa.justblog\\views\\post\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBBBF43F-BA90-4BF2-A7F4-42BB19C4D40B}|FA.JustBlog\\FA.JustBlog.csproj|D:\\FSA\\EF\\FA.JustBlock\\fa.justblog\\helpers\\timehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBBBF43F-BA90-4BF2-A7F4-42BB19C4D40B}|FA.JustBlog\\FA.JustBlog.csproj|solutionrelative:fa.justblog\\helpers\\timehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBBBF43F-BA90-4BF2-A7F4-42BB19C4D40B}|FA.JustBlog\\FA.JustBlog.csproj|D:\\FSA\\EF\\FA.JustBlock\\fa.justblog\\views\\post\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBBBF43F-BA90-4BF2-A7F4-42BB19C4D40B}|FA.JustBlog\\FA.JustBlog.csproj|solutionrelative:fa.justblog\\views\\post\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBBBF43F-BA90-4BF2-A7F4-42BB19C4D40B}|FA.JustBlog\\FA.JustBlog.csproj|D:\\FSA\\EF\\FA.JustBlock\\fa.justblog\\views\\post\\_listpost.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBBBF43F-BA90-4BF2-A7F4-42BB19C4D40B}|FA.JustBlog\\FA.JustBlog.csproj|solutionrelative:fa.justblog\\views\\post\\_listpost.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBBBF43F-BA90-4BF2-A7F4-42BB19C4D40B}|FA.JustBlog\\FA.JustBlog.csproj|D:\\FSA\\EF\\FA.JustBlock\\fa.justblog\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBBBF43F-BA90-4BF2-A7F4-42BB19C4D40B}|FA.JustBlog\\FA.JustBlog.csproj|solutionrelative:fa.justblog\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBBBF43F-BA90-4BF2-A7F4-42BB19C4D40B}|FA.JustBlog\\FA.JustBlog.csproj|D:\\FSA\\EF\\FA.JustBlock\\fa.justblog\\helpers\\customhtmlhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBBBF43F-BA90-4BF2-A7F4-42BB19C4D40B}|FA.JustBlog\\FA.JustBlog.csproj|solutionrelative:fa.justblog\\helpers\\customhtmlhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBBBF43F-BA90-4BF2-A7F4-42BB19C4D40B}|FA.JustBlog\\FA.JustBlog.csproj|D:\\FSA\\EF\\FA.JustBlock\\fa.justblog\\views\\post\\latestpost.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBBBF43F-BA90-4BF2-A7F4-42BB19C4D40B}|FA.JustBlog\\FA.JustBlog.csproj|solutionrelative:fa.justblog\\views\\post\\latestpost.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC7C68D-2AD9-4E5B-B7A9-07A55B1B96FA}|FA.JustBlock.Core\\FA.JustBlock.Core.csproj|D:\\FSA\\EF\\FA.JustBlock\\fa.justblock.core\\models\\justblockdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC7C68D-2AD9-4E5B-B7A9-07A55B1B96FA}|FA.JustBlock.Core\\FA.JustBlock.Core.csproj|solutionrelative:fa.justblock.core\\models\\justblockdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBBBF43F-BA90-4BF2-A7F4-42BB19C4D40B}|FA.JustBlog\\FA.JustBlog.csproj|D:\\FSA\\EF\\FA.JustBlock\\fa.justblog\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBBBF43F-BA90-4BF2-A7F4-42BB19C4D40B}|FA.JustBlog\\FA.JustBlog.csproj|solutionrelative:fa.justblog\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBBBF43F-BA90-4BF2-A7F4-42BB19C4D40B}|FA.JustBlog\\FA.JustBlog.csproj|D:\\FSA\\EF\\FA.JustBlock\\fa.justblog\\components\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBBBF43F-BA90-4BF2-A7F4-42BB19C4D40B}|FA.JustBlog\\FA.JustBlog.csproj|solutionrelative:fa.justblog\\components\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBBBF43F-BA90-4BF2-A7F4-42BB19C4D40B}|FA.JustBlog\\FA.JustBlog.csproj|D:\\FSA\\EF\\FA.JustBlock\\fa.justblog\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBBBF43F-BA90-4BF2-A7F4-42BB19C4D40B}|FA.JustBlog\\FA.JustBlog.csproj|solutionrelative:fa.justblog\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "D:\\FSA\\EF\\FA.JustBlock\\FA.JustBlog\\Areas\\Admin\\Views\\Posts\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "FA.JustBlog\\Areas\\Admin\\Views\\Posts\\Dashboard.cshtml",
+              "ToolTip": "D:\\FSA\\EF\\FA.JustBlock\\FA.JustBlog\\Areas\\Admin\\Views\\Posts\\Dashboard.cshtml",
+              "RelativeToolTip": "FA.JustBlog\\Areas\\Admin\\Views\\Posts\\Dashboard.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAACUAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T07:52:40.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Post.cs",
+              "DocumentMoniker": "D:\\FSA\\EF\\FA.JustBlock\\FA.JustBlock.Core\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "FA.JustBlock.Core\\Models\\Post.cs",
+              "ToolTip": "D:\\FSA\\EF\\FA.JustBlock\\FA.JustBlock.Core\\Models\\Post.cs",
+              "RelativeToolTip": "FA.JustBlock.Core\\Models\\Post.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAIA2wB8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T03:47:13.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\FSA\\EF\\FA.JustBlock\\FA.JustBlog\\Areas\\Admin\\Views\\Posts\\Create.cshtml",
+              "RelativeDocumentMoniker": "FA.JustBlog\\Areas\\Admin\\Views\\Posts\\Create.cshtml",
+              "ToolTip": "D:\\FSA\\EF\\FA.JustBlock\\FA.JustBlog\\Areas\\Admin\\Views\\Posts\\Create.cshtml",
+              "RelativeToolTip": "FA.JustBlog\\Areas\\Admin\\Views\\Posts\\Create.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T03:32:09.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\FSA\\EF\\FA.JustBlock\\FA.JustBlog\\Areas\\Admin\\Views\\Posts\\Index.cshtml",
+              "RelativeDocumentMoniker": "FA.JustBlog\\Areas\\Admin\\Views\\Posts\\Index.cshtml",
+              "ToolTip": "D:\\FSA\\EF\\FA.JustBlock\\FA.JustBlog\\Areas\\Admin\\Views\\Posts\\Index.cshtml",
+              "RelativeToolTip": "FA.JustBlog\\Areas\\Admin\\Views\\Posts\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T03:05:30.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PostsController.cs",
+              "DocumentMoniker": "D:\\FSA\\EF\\FA.JustBlock\\FA.JustBlog\\Areas\\Admin\\Controllers\\PostsController.cs",
+              "RelativeDocumentMoniker": "FA.JustBlog\\Areas\\Admin\\Controllers\\PostsController.cs",
+              "ToolTip": "D:\\FSA\\EF\\FA.JustBlock\\FA.JustBlog\\Areas\\Admin\\Controllers\\PostsController.cs",
+              "RelativeToolTip": "FA.JustBlog\\Areas\\Admin\\Controllers\\PostsController.cs",
+              "ViewState": "AQIAAJ4AAAAAAAAAAAAIwKcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T02:55:47.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\FSA\\EF\\FA.JustBlock\\FA.JustBlog\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FA.JustBlog\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\FSA\\EF\\FA.JustBlock\\FA.JustBlog\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FA.JustBlog\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T02:39:25.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "D:\\FSA\\EF\\FA.JustBlock\\FA.JustBlog\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "FA.JustBlog\\ScaffoldingReadMe.txt",
+              "ToolTip": "D:\\FSA\\EF\\FA.JustBlock\\FA.JustBlog\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "FA.JustBlog\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-28T02:38:24.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FSA\\EF\\FA.JustBlock\\FA.JustBlog\\Program.cs",
+              "RelativeDocumentMoniker": "FA.JustBlog\\Program.cs",
+              "ToolTip": "D:\\FSA\\EF\\FA.JustBlock\\FA.JustBlog\\Program.cs",
+              "RelativeToolTip": "FA.JustBlog\\Program.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAiwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T03:00:26.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\FSA\\EF\\FA.JustBlock\\FA.JustBlog\\Views\\Post\\Details.cshtml",
+              "RelativeDocumentMoniker": "FA.JustBlog\\Views\\Post\\Details.cshtml",
+              "ToolTip": "D:\\FSA\\EF\\FA.JustBlock\\FA.JustBlog\\Views\\Post\\Details.cshtml",
+              "RelativeToolTip": "FA.JustBlog\\Views\\Post\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T02:07:26.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TimeHelper.cs",
+              "DocumentMoniker": "D:\\FSA\\EF\\FA.JustBlock\\FA.JustBlog\\Helpers\\TimeHelper.cs",
+              "RelativeDocumentMoniker": "FA.JustBlog\\Helpers\\TimeHelper.cs",
+              "ToolTip": "D:\\FSA\\EF\\FA.JustBlock\\FA.JustBlog\\Helpers\\TimeHelper.cs",
+              "RelativeToolTip": "FA.JustBlog\\Helpers\\TimeHelper.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T15:36:54.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\FSA\\EF\\FA.JustBlock\\FA.JustBlog\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "FA.JustBlog\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\FSA\\EF\\FA.JustBlock\\FA.JustBlog\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "FA.JustBlog\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T02:37:22.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\FSA\\EF\\FA.JustBlock\\FA.JustBlog\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "FA.JustBlog\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\FSA\\EF\\FA.JustBlock\\FA.JustBlog\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "FA.JustBlog\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T02:37:25.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\FSA\\EF\\FA.JustBlock\\FA.JustBlog\\Views\\Post\\Index.cshtml",
+              "RelativeDocumentMoniker": "FA.JustBlog\\Views\\Post\\Index.cshtml",
+              "ToolTip": "D:\\FSA\\EF\\FA.JustBlock\\FA.JustBlog\\Views\\Post\\Index.cshtml",
+              "RelativeToolTip": "FA.JustBlog\\Views\\Post\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T02:46:08.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ListPost.cshtml",
+              "DocumentMoniker": "D:\\FSA\\EF\\FA.JustBlock\\FA.JustBlog\\Views\\Post\\_ListPost.cshtml",
+              "RelativeDocumentMoniker": "FA.JustBlog\\Views\\Post\\_ListPost.cshtml",
+              "ToolTip": "D:\\FSA\\EF\\FA.JustBlock\\FA.JustBlog\\Views\\Post\\_ListPost.cshtml",
+              "RelativeToolTip": "FA.JustBlog\\Views\\Post\\_ListPost.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T02:19:27.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "D:\\FSA\\EF\\FA.JustBlock\\FA.JustBlog\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "FA.JustBlog\\Controllers\\PostController.cs",
+              "ToolTip": "D:\\FSA\\EF\\FA.JustBlock\\FA.JustBlog\\Controllers\\PostController.cs",
+              "RelativeToolTip": "FA.JustBlog\\Controllers\\PostController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAIwCEAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T02:45:39.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\FSA\\EF\\FA.JustBlock\\FA.JustBlog\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FA.JustBlog\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\FSA\\EF\\FA.JustBlock\\FA.JustBlog\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FA.JustBlog\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T02:32:29.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\FSA\\EF\\FA.JustBlock\\FA.JustBlog\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FA.JustBlog\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\FSA\\EF\\FA.JustBlock\\FA.JustBlog\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FA.JustBlog\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T02:41:44.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CustomHTMLHelpers.cs",
+              "DocumentMoniker": "D:\\FSA\\EF\\FA.JustBlock\\FA.JustBlog\\Helpers\\CustomHTMLHelpers.cs",
+              "RelativeDocumentMoniker": "FA.JustBlog\\Helpers\\CustomHTMLHelpers.cs",
+              "ToolTip": "D:\\FSA\\EF\\FA.JustBlock\\FA.JustBlog\\Helpers\\CustomHTMLHelpers.cs",
+              "RelativeToolTip": "FA.JustBlog\\Helpers\\CustomHTMLHelpers.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAYwDsAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T15:36:40.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LatestPost.cshtml",
+              "DocumentMoniker": "D:\\FSA\\EF\\FA.JustBlock\\FA.JustBlog\\Views\\Post\\LatestPost.cshtml",
+              "RelativeDocumentMoniker": "FA.JustBlog\\Views\\Post\\LatestPost.cshtml",
+              "ToolTip": "D:\\FSA\\EF\\FA.JustBlock\\FA.JustBlog\\Views\\Post\\LatestPost.cshtml",
+              "RelativeToolTip": "FA.JustBlog\\Views\\Post\\LatestPost.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T08:32:48.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\FSA\\EF\\FA.JustBlock\\FA.JustBlog\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "FA.JustBlog\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\FSA\\EF\\FA.JustBlock\\FA.JustBlog\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "FA.JustBlog\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T12:34:19.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "JustBlockDbContext.cs",
+              "DocumentMoniker": "D:\\FSA\\EF\\FA.JustBlock\\FA.JustBlock.Core\\Models\\JustBlockDbContext.cs",
+              "RelativeDocumentMoniker": "FA.JustBlock.Core\\Models\\JustBlockDbContext.cs",
+              "ToolTip": "D:\\FSA\\EF\\FA.JustBlock\\FA.JustBlock.Core\\Models\\JustBlockDbContext.cs",
+              "RelativeToolTip": "FA.JustBlock.Core\\Models\\JustBlockDbContext.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T08:38:58.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\FSA\\EF\\FA.JustBlock\\FA.JustBlog\\Components\\Category.cs",
+              "RelativeDocumentMoniker": "FA.JustBlog\\Components\\Category.cs",
+              "ToolTip": "D:\\FSA\\EF\\FA.JustBlock\\FA.JustBlog\\Components\\Category.cs",
+              "RelativeToolTip": "FA.JustBlog\\Components\\Category.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T12:41:52.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\FSA\\EF\\FA.JustBlock\\FA.JustBlog\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "FA.JustBlog\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\FSA\\EF\\FA.JustBlock\\FA.JustBlog\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "FA.JustBlog\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T03:44:38.795Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

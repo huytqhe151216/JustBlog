@@ -1,0 +1,136 @@
+﻿@using FA.JustBlock.Core.Models
+@using Newtonsoft.Json
+@model IList<Post>
+
+<h1 class="mt-4">Dashboard</h1>
+
+<table id="lastestPosts"></table>
+<div id="lastestPager"></div>
+
+<div class="mb-3"></div>
+
+<table id="mostViewedPosts"></table>
+<div id="mostViewedPager"></div>
+
+<div class="mb-3"></div>
+
+<table id="highestPosts"></table>
+<div id="highestPager"></div>
+
+<div class="mb-3"></div>
+
+<table id="publisedPosts"></table>
+<div id="publisedPager"></div>
+
+<div class="mb-3"></div>
+
+<table id="unpublisedPosts"></table>
+<div id="unpublisedPager"></div>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/free-jqgrid/4.15.5/jquery.jqgrid.min.js"></script>
+
+<script type="text/javascript">
+    $(function () {
+        "use strict";
+        //Create table to lastest posts
+        var lastestPosts = @Html.Raw(JsonConvert.SerializeObject(ViewBag.LatestPosts));
+        $("#lastestPosts").jqGrid({
+            colModel: [
+                { name: "Id", label: "ID", width: 50, align: "left" },
+                { name: "Title", label: "Title", width: 150, align: "left" },
+                { name: "ShortDescription", label: "Short Description", width: 250, align: "left" },
+                { name: "PostContent", label: "Content", width: 300, align: "left" },
+                { name: "UrlSlug", label: "URL Slug", width: 150, align: "left" },
+                { name: "Published", label: "Published", width: 100, align: "center", formatter: "checkbox" },
+                { name: "PostedOn", label: "Posted On", width: 150, align: "left", formatter: "date", formatoptions: { srcformat: "ISO8601Long", newformat: "m/d/Y H:i:s" } },
+            ],
+            data: lastestPosts,
+            pager: "#lastestPager",
+            rowNum: 3,
+            rowList: [3, 6],
+            viewrecords: true,
+            width: 'auto',
+            height: 'auto',
+            autowidth: true,
+            shrinkToFit: true,
+            caption: "Latest Posts",
+        }).jqGrid('gridResize');
+
+        //Create table to most viewed posts
+        var mostViewedPosts = @Html.Raw(JsonConvert.SerializeObject(ViewBag.MostViewedPosts));
+        $("#mostViewedPosts").jqGrid({
+            colModel: [
+                { name: "Id", label: "ID", width: 50, align: "left" },
+                { name: "Title", label: "Title", width: 150, align: "left" },
+                { name: "ShortDescription", label: "Short Description", width: 250, align: "left" },
+                { name: "PostContent", label: "Content", width: 300, align: "left" },
+                { name: "UrlSlug", label: "URL Slug", width: 150, align: "left" },
+                { name: "Published", label: "Published", width: 100, align: "center", formatter: "checkbox" },
+                { name: "PostedOn", label: "Posted On", width: 150, align: "left", formatter: "date", formatoptions: { srcformat: "ISO8601Long", newformat: "m/d/Y H:i:s" } },
+            ],
+            data: mostViewedPosts,
+            pager: "#mostViewedPager",
+            rowNum: 3,
+            rowList: [3, 6],
+            viewrecords: true,
+            width: 'auto',
+            height: 'auto',
+            autowidth: true,
+            shrinkToFit: true,
+            caption: "Most Viewed Posts",
+        }).jqGrid('gridResize');
+
+       
+       
+
+        //Create table to lastest posts
+        var publisedPosts = @Html.Raw(JsonConvert.SerializeObject(ViewBag.PublisedPosts));
+        $("#publisedPosts").jqGrid({
+            colModel: [
+                { name: "Id", label: "ID", width: 50, align: "left" },
+                { name: "Title", label: "Title", width: 150, align: "left" },
+                { name: "ShortDescription", label: "Short Description", width: 250, align: "left" },
+                { name: "PostContent", label: "Content", width: 300, align: "left" },
+                { name: "UrlSlug", label: "URL Slug", width: 150, align: "left" },
+                { name: "Published", label: "Published", width: 100, align: "center", formatter: "checkbox" },
+                { name: "PostedOn", label: "Posted On", width: 150, align: "left", formatter: "date", formatoptions: { srcformat: "ISO8601Long", newformat: "m/d/Y H:i:s" } },
+            ],
+            data: publisedPosts,
+            pager: "#publisedPager",
+            rowNum: 3,
+            rowList: [3, 6],
+            viewrecords: true,
+            width: 'auto',
+            height: 'auto',
+            autowidth: true,
+            shrinkToFit: true,
+            caption: "Publised Posts",
+        }).jqGrid('gridResize');
+
+        //Create table to lastest posts
+        var unpublisedPosts = @Html.Raw(JsonConvert.SerializeObject(ViewBag.UnpublisedPosts));
+        $("#unpublisedPosts").jqGrid({
+            colModel: [
+                { name: "Id", label: "ID", width: 50, align: "left" },
+                { name: "Title", label: "Title", width: 150, align: "left" },
+                { name: "ShortDescription", label: "Short Description", width: 250, align: "left" },
+                { name: "PostContent", label: "Content", width: 300, align: "left" },
+                { name: "UrlSlug", label: "URL Slug", width: 150, align: "left" },
+                { name: "Published", label: "Published", width: 100, align: "center", formatter: "checkbox" },
+                { name: "PostedOn", label: "Posted On", width: 150, align: "left", formatter: "date", formatoptions: { srcformat: "ISO8601Long", newformat: "m/d/Y H:i:s" } },
+            ],
+            data: unpublisedPosts,
+            pager: "#unpublisedPager",
+            rowNum: 3,
+            rowList: [3, 6],
+            viewrecords: true,
+            width: 'auto',
+            height: 'auto',
+            autowidth: true,
+            shrinkToFit: true,
+            caption: "Unpublised Posts",
+        }).jqGrid('gridResize');
+    });
+</script>

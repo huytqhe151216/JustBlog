@@ -1,0 +1,25 @@
+﻿@using FA.JustBlock.Core.Models
+@model List<Post>
+
+
+<h1>All Posts</h1>
+<ul style="list-style-type: none;">
+    @foreach (var post in Model)
+    {
+        <li>
+            @Html.PostLink(post)
+            Posted @post.PostedOn.ToTime() with rate @post.TotalRate by @post.ViewCount view(s)
+            <p>@post.PostContent</p>
+            <p class="post-meta">
+                Category:  @Html.CategoryLink(post.Category)
+            </p>
+            <p class="post-meta">
+                Tag: @foreach (var tag in post.Tags)
+                {
+                    @Html.TagLink(tag)
+                }
+            </p>
+
+        </li>
+    }
+</ul>

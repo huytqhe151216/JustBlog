@@ -1,0 +1,12 @@
+﻿@using FA.JustBlock.Core.Models
+@model List<Post>
+
+<h2>Latest Post</h2>
+@foreach (var post in Model)
+{
+    <li>
+        <a asp-controller="Post" asp-action="Detail" asp-route-id="@post.Id" class="post-link">@post.Title</a>
+        Posted @post.PostedOn.ToTime() with rate @post.TotalRate by @post.ViewCount view(s)
+        <p>@post.PostContent</p>
+    </li>
+}
